@@ -2,9 +2,9 @@
 
 ## MUMBAI deployment addresses for contracts 
 
-** Aiswap Token Address: ** 0x7b24dbBD7b4da5861360a90D1778Eb85a29800C2
-** Biswap Token Address: ** 0xAbB63cc9Be3f24F31Fbb1c2107773c0Ed518127e
-** Polyswap Contract Address: ** 0xEc6A259efA4F89ee215fC398972cEa26b6bEB417
+- Aiswap Token Address: **0x7b24dbBD7b4da5861360a90D1778Eb85a29800C2**
+- Biswap Token Address: **0xAbB63cc9Be3f24F31Fbb1c2107773c0Ed518127e**
+- Polyswap Contract Address: **0xEc6A259efA4F89ee215fC398972cEa26b6bEB417**
 
 ## Pseudocode Call Sequence
 
